@@ -35,7 +35,6 @@ Use GitHub for version control, documentation, and teamwork 📘
 Track your progress, share updates, and troubleshoot together 🔧
 Make sure everyone is in the loop 🧭
  
-
 🗃️ Tables to Be Created
 You'll be building the following tables for your e-commerce platform 🛍️:
 
